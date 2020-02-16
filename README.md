@@ -1,7 +1,6 @@
 # How-to-Learn-Information-Technology-Elegantly
 如何优雅地学习信息技术
 ## 目录
-* * *
 * 简介
 * 在一切之前
 * 学习信息技术时
